@@ -1,6 +1,4 @@
-
-
-export type MilestoneType = 'milestone' | 'era-change' | 'crisis';
+export type MilestoneType = "milestone" | "era-change" | "crisis";
 
 export interface Milestone {
   id: string;
@@ -21,7 +19,8 @@ export interface Milestone {
     starter_code: string;
     expected_logic: string;
   };
-  deep_dive?: string; 
+  deep_dive?: string;
+  resources?: string[];
 }
 
 export interface UserState {
@@ -29,18 +28,18 @@ export interface UserState {
   currentId: string | null;
 }
 
-export type Category = 
-  | 'math-foundation' 
-  | 'statistical-mechanics' 
-  | 'neural-architectures' 
-  | 'optimization-theory' 
-  | 'data-engineering' 
-  | 'deployment-scaling';
+export type Category =
+  | "math-foundation"
+  | "statistical-mechanics"
+  | "neural-architectures"
+  | "optimization-theory"
+  | "data-engineering"
+  | "deployment-scaling";
 
 /**
  * Represents the seniority levels of the user within the Nexus ecosystem.
  */
-export type UserRank = 'novice' | 'architect' | 'master' | 'visionary';
+export type UserRank = "novice" | "architect" | "master" | "visionary";
 
 export interface AIElement {
   symbol: string;
