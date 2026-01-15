@@ -109,12 +109,22 @@ Este proyecto es el resultado de meses de investigación, curación de contenido
 
 ## 🌐 Conéctate Conmigo
 
-¿Te gustó el proyecto? ¡Conectemos!
+¿Te gustó el proyecto? ¡Conectemos para seguir construyendo el futuro de la IA!
 
-- 💼 **LinkedIn**: [Frank Abanto](https://linkedin.com/in/frankabanto)
-- 📺 **YouTube**: [@frankabanto](https://youtube.com/@frankabanto)
-- 📸 **Instagram**: [@frank_abant](https://instagram.com/frank_abant)
-- 🐦 **Twitter/X**: [@FrankUsqAbanto](https://twitter.com/FrankUsqAbanto)
+<div align="left">
+  <a href="https://linkedin.com/in/frankabanto" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 5px;">
+  </a>
+  <a href="https://youtube.com/@frankabanto" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin-right: 5px;">
+  </a>
+  <a href="https://instagram.com/frank_abant" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-right: 5px;">
+  </a>
+  <a href="https://twitter.com/FrankUsqAbanto" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-right: 5px;">
+  </a>
+</div>
 
 ---
 

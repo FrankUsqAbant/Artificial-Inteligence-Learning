@@ -109,8 +109,6 @@ const Dashboard: React.FC<DashboardProps> = ({
                 onSelectElement={(el: AIElement) => console.log(el)}
                 masteredSymbols={[]}
                 userRank="architect"
-                onOpenGraph={() => {}}
-                onToggleMissions={() => {}}
                 unlockedCategories={[
                   "math-foundation",
                   "neural-architectures",
