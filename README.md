@@ -1,6 +1,14 @@
 # 🌌 Nexus AI Timeline
 
-![Nexus AI Timeline](./assets/hero-preview.png)
+<div align="center">
+  <img src="./assets/preview.png" alt="Nexus AI Timeline Preview" width="100%">
+  
+  <br>
+  
+  [![Live Demo](https://img.shields.io/badge/DEMO-VIVO-brightgreen?style=for-the-badge&logo=rocket&logoColor=white)](https://frankusqabant.github.io/Artificial-Inteligence-Learning/)
+  
+  **Explora la evolución de la Inteligencia Artificial desde la comodidad de tu navegador**
+</div>
 
 ## 🎯 Sobre el Proyecto
 
