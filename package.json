@@ -1,5 +1,6 @@
 {
   "name": "linea-de-tiempo-ia",
+  "author": "Frank Abanto",
   "private": true,
   "version": "2.5.0",
   "type": "module",

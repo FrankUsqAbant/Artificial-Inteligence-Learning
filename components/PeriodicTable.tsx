@@ -70,7 +70,7 @@ const PeriodicTable: React.FC<PeriodicTableProps> = ({
           <div className="space-y-4 w-full lg:w-auto">
             <div className="space-y-1">
               <h1 className="text-6xl font-black tracking-tighter text-white uppercase leading-none italic">
-                NEXUS<span className="text-cyan-500">.AI</span>
+                LÍNEA DE TIEMPO<span className="text-cyan-500"> IA</span>
               </h1>
               <p className="text-slate-500 font-mono text-[10px] uppercase tracking-[0.5em]">
                 Neural Learning Interface

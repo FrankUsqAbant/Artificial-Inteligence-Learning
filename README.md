@@ -1,7 +1,7 @@
-# 🌌 Nexus AI Timeline
+# 🌌 Línea de Tiempo de IA
 
 <div align="center">
-  <img src="./assets/preview.png" alt="Nexus AI Timeline Preview" width="100%">
+  <img src="./assets/preview.png" alt="Línea de Tiempo de IA Preview" width="100%">
   
   <br>
   
@@ -12,7 +12,7 @@
 
 ## 🎯 Sobre el Proyecto
 
-**Nexus AI Timeline** es una plataforma educativa interactiva y autónoma que te lleva en un viaje fascinante a través de la historia completa de la Inteligencia Artificial, desde 1837 hasta 2025.
+**Línea de Tiempo de IA** es una plataforma educativa interactiva y autónoma que te lleva en un viaje fascinante a través de la historia completa de la Inteligencia Artificial, desde 1837 hasta 2025.
 
 Este proyecto nació con una misión clara: **democratizar el conocimiento sobre IA** y proporcionar una experiencia de aprendizaje inmersiva, estructurada y 100% offline para cualquier persona interesada en entender cómo llegamos a la era de GPT-4, modelos de difusión y el camino hacia la AGI.
 

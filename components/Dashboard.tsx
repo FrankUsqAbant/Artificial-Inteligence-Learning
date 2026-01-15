@@ -30,7 +30,7 @@ const Dashboard: React.FC<DashboardProps> = ({
       <div className="relative w-full max-w-7xl bg-[#030303] border border-white/10 rounded-[2.5rem] overflow-hidden flex flex-col h-[85vh] shadow-2xl">
         <header className="px-10 py-6 border-b border-white/5 flex flex-wrap justify-between items-center gap-4">
           <h2 className="text-xl font-black text-white uppercase italic tracking-tighter">
-            Nexus Intelligence Center
+            Panel de Control de IA
           </h2>
 
           <div className="flex bg-white/5 p-1 rounded-2xl">
